@@ -89,7 +89,7 @@ def pontos():
     for i in range(num - 1):
         cont = 0
         cont = cont + 3
-        for j in range(i + 1, num): # ...
+        for j in range(i + 1, num): # CORRIGIR ESTE TRECHO...
 
         # print(times[i])
             if (qndgolsprimeiro > qndgolssegundo):
